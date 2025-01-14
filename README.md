@@ -9,7 +9,7 @@
 ### Language
 <div>
 <img src="https://img.shields.io/badge/Html-E34F26?style=&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-1572B6?style=&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F7DF1E?style=&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-3178C6?style=&logo=R&logoColor=white"/>
 <br>
