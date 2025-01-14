@@ -1,4 +1,4 @@
-![blob](https://capsule-render.vercel.app/api?type=blob&height=200&text=Donghun&fontAlign=74&fontAlignY=40&color=gradient)](https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=About%20Me&fontAlign=74&textBg=false&section=header&reversal=false)
+https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=About%20Me&fontAlign=74&textBg=false&section=header&reversal=false
 
 <a href="mailto:hywlrma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
