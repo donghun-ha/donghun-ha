@@ -1,10 +1,24 @@
-https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=About%20Me&fontAlign=74&textBg=false&section=header&reversal=false
+![waving](https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=About%20Me&fontAlign=74&textBg=false&section=header&reversal=false)
 
 <a href="mailto:hywlrma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
 # 🌱 Skills
+
+## IDEs
+<div>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
+</div>
+
+## Databases
+<div>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+</div>
 
 ## Languages
 <div>
@@ -21,20 +35,6 @@ https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/UIKit-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-</div>
-
-## Databases
-<div>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-</div>
-
-## IDEs
-<div>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
 </div>
 
 ## Tools
