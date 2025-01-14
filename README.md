@@ -7,12 +7,15 @@
 # 🌱 Skills
 
 ## Stack
+
+<div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+</div>
 
 
 ## Frameworks
@@ -21,7 +24,7 @@
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-    <span style="background-color: #333333; color: white; padding: 5px 10px; border-radius: 5px;">UIKit</span>
+    <img src="https://img.shields.io/badge/UIKit-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 
 ## Techs that I've used at least once
