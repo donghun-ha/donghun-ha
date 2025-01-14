@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Donghun&fontAlign=74&fontAlignY=40&color=gradient&customColorList=AB92FF,E4C1F9)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Donghun&fontAlign=74&fontAlignY=40&color=linear-gradient(AB92FF,E4C1F9))
 
 <a href="mailto:hywlrma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
