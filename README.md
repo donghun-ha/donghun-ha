@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=About%20Me&fontAlign=74&textBg=false&section=header&reversal=false)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=About%20Me&fontAlign=74&textBg=false&section=header&reversal=false)
 
 <a href="mailto:hywlrma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
