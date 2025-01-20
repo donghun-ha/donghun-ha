@@ -35,8 +35,6 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Fork-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <br>
