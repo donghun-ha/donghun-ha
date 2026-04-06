@@ -2,8 +2,9 @@
 
 <a href="mailto:hywlrma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    [![Velog](https://velog-readme-stats.vercel.app/api/badge?name=donghun-ha)](https://velog.io/@donghun-ha)
 </a>
-![Velog](https://velog-readme-stats.vercel.app/api/badge?name=donghun-ha)](https://velog.io/@donghun-ha)
+
 # 🌱 Skills
 
 ## Stack
