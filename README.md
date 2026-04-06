@@ -1,8 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=About%20Me&fontAlign=74&textBg=false&section=header&reversal=false)
 
 <a href="mailto:hywlrma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-    [![Velog](https://velog-readme-stats.vercel.app/api/badge?name=donghun-ha)](https://velog.io/@donghun-ha)
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
+<a href="https://velog.io/@donghun-ha" target="_blank">
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=donghun-ha"/>
 </a>
 
 # 🌱 Skills
